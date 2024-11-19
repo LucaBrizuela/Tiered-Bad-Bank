@@ -31,9 +31,9 @@ This application helps users manage their accounts effectively by offering featu
 
 ## Screenshots
 
-### User Dashboard
+### Account Creation
 
-![User Dashboard](screenshot1.png.png)
+![Account Creation](screenshot1.png.png)
 
 ---
 
