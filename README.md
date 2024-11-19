@@ -15,8 +15,8 @@ This application helps users manage their accounts effectively by offering featu
 - **Deployment:** The application is deployed to a cloud service for accessibility.
 
 ## Installation Guidelines
-1. Clone the repository: `git clone https://github.com/LucaBrizuela/Full-Stack-Banking-Application.git`
-2. Navigate to the project directory: `cd Full-Stack-Banking-Application`
+1. Clone the repository: `git clone https://github.com/LucaBrizuela/Tiered-Bad-Bank.git`
+2. Navigate to the project directory: `cd Tiered-Bad-Bank`
 3. Install dependencies:`npm install`
 4. Set up the environment variables:
 - Create a .env file in the root directory.
@@ -33,7 +33,7 @@ This application helps users manage their accounts effectively by offering featu
 
 ### User Dashboard
 
-![User Dashboard](path/to/screenshot1.png)
+![User Dashboard](screenshot1.png)
 
 ---
 
