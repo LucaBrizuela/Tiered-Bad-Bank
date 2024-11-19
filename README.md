@@ -33,7 +33,7 @@ This application helps users manage their accounts effectively by offering featu
 
 ### User Dashboard
 
-![User Dashboard](screenshot1.png)
+![User Dashboard](screenshot1.png.png)
 
 ---
 
